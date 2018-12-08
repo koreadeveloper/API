@@ -4,6 +4,7 @@ Using API
 Compiler API<br>
 
 https://www.jdoodle.com/ <br>
+ㄴ supports 68 Languages <br>
 https://www.jdoodle.com/compiler-api <br>
 
 API 사용 문서 <br>
