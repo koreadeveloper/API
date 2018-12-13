@@ -24,3 +24,6 @@ https://www.jdoodle.com/compiler-api/docs <br>
 (200 Credits Per Day) <br>
 *1 Credit = 1 Execute API Call
 --------------------------------------
+
+카카오 플랫폼 API <br>
+https://developers.kakao.com/features/platform
