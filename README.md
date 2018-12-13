@@ -27,3 +27,6 @@ https://www.jdoodle.com/compiler-api/docs <br>
 
 카카오 플랫폼 API <br>
 https://developers.kakao.com/features/platform
+
+카카오 서비스 API <br>
+https://developers.kakao.com/features/kakao
