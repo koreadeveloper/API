@@ -2,6 +2,8 @@
 Using API
 [ Free apis to use 2019 ]
 https://www.one-tab.com/page/jzdRLGsNQWG_x9acHPfDGw 
+https://freemoa-blog.com/639
+sendanywhere - https://wordpress.org/plugins/send-anywhere-file-transfer/ [ Not API But Plugin ]
 
 -----------------------------------------
 
